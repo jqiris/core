@@ -1,6 +1,6 @@
 Core is a lightweight wrapper of sql.DB.
 
-[![CircleCI](https://circleci.com/gh/go-xorm/core/tree/master.svg?style=svg)](https://circleci.com/gh/go-xorm/core/tree/master)
+[![CircleCI](https://circleci.com/gh/jqiris/core/tree/master.svg?style=svg)](https://circleci.com/gh/jqiris/core/tree/master)
 
 # Open
 ```Go
